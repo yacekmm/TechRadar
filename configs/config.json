@@ -1,5 +1,19 @@
 {
+  "title": "Jacek Milewski's Technology Radar",
+  "repo_url": "https://github.com/zalando/tech-radar",
   "date": "2024.06",
+  "quadrants":[
+    {"name": "Languages"},
+    {"name": "Infrastructure"},
+    {"name": "Datastores"},
+    {"name": "Data Management"}
+  ],
+  "rings": [
+    {"name": "ADOPT", "color": "#5ba300"},
+    {"name": "TRIAL", "color": "#009eb0"},
+    {"name": "ASSESS", "color": "#c7ba00"},
+    {"name": "HOLD", "color": "#e09b96"}
+  ],
   "entries": [
     {
       "quadrant": 3,
